@@ -1,51 +1,38 @@
-Cloud Platforms Engineer Study App
+Hi there, I'm admoise👋
 
-Welcome to the Cloud Platforms Engineer Study App! This web application is designed to help you prepare for cloud engineering roles, focusing on AWS cloud adoption, automation, and infrastructure-as-code principles.
+Welcome to my GitHub profile! I'm passionate about cloud infrastructure, automation, and network architecture. Here, you'll find a collection of projects, experiments, and learning resources that reflect my journey in the tech world.
 
-Features
+📊 About Me
 
-AWS Cloud Services: Practice and review AWS services and best practices.
+🌐 Cloud Platforms Engineer in the making, focusing on AWS cloud adoption and infrastructure-as-code.
 
-Automation: Learn about CI/CD pipelines, deployment strategies, and automation tools.
+🌐 Preparing for CCNP certification and enhancing my networking skills using EVE-NG.
 
-Infrastructure-as-Code (IaC): Hands-on experience with tools like Terraform, CloudFormation, and Ansible.
+🌐 Experience with Amazon Web Services, DevOps tools, and security frameworks.
 
-Quizzes & Flashcards: Test your knowledge with interactive quizzes and flashcards.
+🌐 Former AWS employee with hands-on knowledge of cloud infrastructure and performance optimization.
 
-Technologies Used
+🌐 Exploring software engineering concepts, from Linux systems to frontend development.
 
-Frontend: React.js, Tailwind CSS
+🔧 Skills & Tools
 
-Backend: Node.js, Express.js
+Cloud & Networking: AWS, Azure, Cisco ACI, SDN, VPNs, Load Balancers
 
-Database: MongoDB
+Automation & DevOps: Ansible, GitHub Actions, Infrastructure-as-Code
 
-Cloud Services: AWS (EC2, S3, Lambda, CloudFormation)
+Security: Threat Defense, Cisco ISE, Security Analysis
 
-DevOps Tools: Ansible, Terraform, GitHub Actions
+Programming: Python, JavaScript (Node.js), React
 
-Getting Started
+Other: Tomcat 9, MongoDB, Linux, EVE-NG
 
-Clone the Repository:
+🌟 Certifications & Goals
 
-git clone https://github.com/your-username/cloud-platforms-study-app.git
+🔹 CCNP Certification (In Progress)
 
-Navigate to the Project Directory:
+🔹 Cloud Certifications
+    - AWS Solutions Architect
 
-cd cloud-platforms-study-app
 
-Install Dependencies:
 
-npm install
-
-Start the Development Server:
-
-npm start
-
-Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-License
-
-This project is licensed under the MIT License.
+Thanks for stopping by! 🌟 Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about tech!
